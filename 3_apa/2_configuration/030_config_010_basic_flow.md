@@ -10,6 +10,7 @@ These settings determine what users, or group of users, are responsible to perfo
 The best practice is to assign roles instead of individual users. This will enable shared workload as well as easier if 
 there are changes within your organization.
 
+
 Verify standard setup here: [Enterprise responsible settings](https://cloud.mediusflow.com/$TenantNameQA/#/Administration/Medius.Core.Entities.Company).
 
 1. Choose what Company to apply settings to. It is recommended to apply settings at virtual level for minimal administration.
